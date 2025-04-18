@@ -52,7 +52,7 @@ public class AuthenticationTest extends BaseTest {
        // authenticationpinpage.EnterSecurityPin();
         //authenticationpinpage.EnterSecurityPin("1234");
         EnterSecurityPin("1234");
-
+//Test
 
         Thread.sleep(2000);
 
