@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicked the 'Welcome Back' button.]]>
+    </line>
+    <line>
+      <![CDATA[clicked  merchantButton]]>
+    </line>
+    <line>
+      <![CDATA['Test1' has been typed into the field.]]>
+    </line>
+    <line>
+      <![CDATA['vkautomationtesting@gmail.com' has been typed into the field.]]>
+    </line>
+    <line>
+      <![CDATA[Clicekd on Select category]]>
+    </line>
+    <line>
+      <![CDATA['Automotive' TextView has been clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Selected All Check box]]>
+    </line>
+    <line>
+      <![CDATA[CLicked on Confirm Button ]]>
+    </line>
+    <line>
+      <![CDATA[clicked on create Merchant button]]>
+    </line>
+    <line>
+      <![CDATA[📷 Screenshot [PASS]: <a href='test-output/screenshots/CreateMerchantScenario_PASS_20250415_113019.png'>View</a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-04-15T11:29:37 IST" name="Default Suite" finished-at="2025-04-15T11:30:20 IST" duration-ms="42846">
+    <groups>
+    </groups>
+    <test started-at="2025-04-15T11:29:37 IST" name="PayCioAutomation" finished-at="2025-04-15T11:30:20 IST" duration-ms="42846">
+      <class name="Tests.CreateMerchantTest">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Tests.CreateMerchantTest@232a7d73]" started-at="2025-04-15T11:29:37 IST" name="ConfigureAppium" finished-at="2025-04-15T11:29:49 IST" duration-ms="12303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="setUpLoginClass()[pri:0, instance:Tests.CreateMerchantTest@232a7d73]" started-at="2025-04-15T11:29:49 IST" name="setUpLoginClass" finished-at="2025-04-15T11:29:49 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLoginClass -->
+        <test-method signature="CreateMerchantScenario()[pri:0, instance:Tests.CreateMerchantTest@232a7d73]" started-at="2025-04-15T11:29:50 IST" name="CreateMerchantScenario" finished-at="2025-04-15T11:30:19 IST" duration-ms="29048" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked the 'Welcome Back' button.]]>
+            </line>
+            <line>
+              <![CDATA[clicked  merchantButton]]>
+            </line>
+            <line>
+              <![CDATA['Test1' has been typed into the field.]]>
+            </line>
+            <line>
+              <![CDATA['vkautomationtesting@gmail.com' has been typed into the field.]]>
+            </line>
+            <line>
+              <![CDATA[Clicekd on Select category]]>
+            </line>
+            <line>
+              <![CDATA['Automotive' TextView has been clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Selected All Check box]]>
+            </line>
+            <line>
+              <![CDATA[CLicked on Confirm Button ]]>
+            </line>
+            <line>
+              <![CDATA[clicked on create Merchant button]]>
+            </line>
+            <line>
+              <![CDATA[📷 Screenshot [PASS]: <a href='test-output/screenshots/CreateMerchantScenario_PASS_20250415_113019.png'>View</a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateMerchantScenario -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.CreateMerchantTest@232a7d73]" started-at="2025-04-15T11:30:19 IST" name="tearDown" finished-at="2025-04-15T11:30:20 IST" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.CreateMerchantTest -->
+    </test> <!-- PayCioAutomation -->
+  </suite> <!-- Default Suite -->
+</testng-results>

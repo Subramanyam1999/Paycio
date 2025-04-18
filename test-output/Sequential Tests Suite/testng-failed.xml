@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sequential Tests Suite]">
+  <test thread-count="5" name="BmLeadCreation(failed)">
+    <classes>
+      <class name="Tests.BmLeadCreationTest">
+        <methods>
+          <include name="ConfigureAppium"/>
+          <include name="bmleadCreationTesting"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Tests.BmLeadCreationTest -->
+    </classes>
+  </test> <!-- BmLeadCreation(failed) -->
+</suite> <!-- Failed suite [Sequential Tests Suite] -->

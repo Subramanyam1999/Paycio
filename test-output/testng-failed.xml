@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="PayCioAutomation(failed)">
+    <classes>
+      <class name="Tests.CreateMerchantTest">
+        <methods>
+          <include name="ConfigureAppium"/>
+          <include name="setUpLoginClass"/>
+          <include name="tearDown"/>
+          <include name="CreateMerchantScenario"/>
+        </methods>
+      </class> <!-- Tests.CreateMerchantTest -->
+    </classes>
+  </test> <!-- PayCioAutomation(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

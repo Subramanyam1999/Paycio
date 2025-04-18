@@ -1,0 +1,1 @@
+{"uuid":"7005340a-3099-4e4d-b97d-d9363856f2b4","name":"Tests.PayCioLoginTest","children":["ff3c26ad-e0bc-45c4-92d4-53887427ab38"],"befores":[{"name":"ConfigureAppium","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1741760254850,"stop":1741760273274}],"afters":[],"start":1741760254770,"stop":1741760282364}
